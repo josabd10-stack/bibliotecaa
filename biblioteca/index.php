@@ -44,6 +44,7 @@ $resultado = $conexion->query("SELECT * FROM libros ORDER BY id DESC");
 
 <header>
     <h1>Sistema de Control de Biblioteca</h1>
+    <a href="manual_usuario.pdf" target="_blank" class="btn-manual">Manual de usuario</a>
 </header>
 
 <main class="container">
