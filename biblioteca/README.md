@@ -1,11 +1,17 @@
-#Creacion de archivos
+## Creación de archivos
 
 <p>
-Algunos de los pasos que se hicieron para crear los archivos
+Algunos de los pasos y comandos que se utilizaron para crear y administrar los archivos del proyecto fueron:
 </p>
--Git init
--Git status
-**Entre otros comandos**
+
+- `git init`: Inicializa un repositorio Git.
+- `git status`: Muestra el estado de los archivos.
+- `git add .`: Agrega los archivos al área de preparación.
+- `git commit -m "mensaje"`: Guarda los cambios.
+- `git remote add origin`: Conecta el repositorio local con GitHub.
+- `git push`: Sube los archivos al repositorio remoto.
+
+**Entre otros comandos utilizados durante el desarrollo del proyecto.**
 
 # Sistema de Control de Biblioteca
 
