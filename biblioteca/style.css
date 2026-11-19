@@ -144,6 +144,22 @@ th {
     font-size: 0.9rem;
 }
 
+.btn-manual {
+    display: inline-block;
+    margin-top: 0.8rem;
+    background-color: var(--secondary-color);
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1.2rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    transition: background 0.3s ease;
+}
+
+.btn-manual:hover {
+    background-color: #128f76;
+}
+
 .btn-accion:hover {
     background-color: #128f76;
 }
