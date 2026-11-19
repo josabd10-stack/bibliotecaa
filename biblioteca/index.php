@@ -13,7 +13,7 @@
  *  - cambiarEstado.php: cambia un libro entre prestado y disponible.
  *  - styles.css:        da la apariencia a la página.
  *  - script.js:         revisa el formulario y avisa cuando se guardó un libro.
- *
+ *  - Manual.pdf         Acceso al manual de usuario desde un botón.
  * @package SistemaBiblioteca
  * @author  Josué Abdiel Martínez Méndez
  * @version 1.0
